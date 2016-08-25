@@ -1,0 +1,12 @@
+\documentclass[a4paper]{article}
+
+\title{<data>Sheet1:A2</data>}
+\author{Paolo Masulli}
+
+\begin{document}
+
+\maketitle
+
+Let's include a number for the spreadsheet: <data>B2</data>.
+
+\end{document}
